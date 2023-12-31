@@ -6,4 +6,5 @@ p {font-family: verdana; font-size: 20px;}
 
 a {font-family: verdana; font-size: 20px; text-align: center;}
 
-div {background-color: lightgrey; width: 600px; padding: 30px; margin: auto; margin-top: 1px; border-radius: 30px;}
+div {background-color: lightgrey; width: 600px; padding: 30px; 
+     padding-top: 1px;margin: auto; margin-top: 50px; border-radius: 30px;}
