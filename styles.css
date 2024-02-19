@@ -34,7 +34,6 @@ a:active {
 }
 
 div {
-    background-color: white;
     width: 600px;
     padding: 30px;
     padding-top: 1px;
@@ -42,5 +41,5 @@ div {
     margin: auto;
     margin-top: 50px;
     border-radius: 40px;
-    text-align: center; /* Center align the content inside the div */
+    text-align: center;
 }
