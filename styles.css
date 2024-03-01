@@ -20,6 +20,9 @@ div {
   margin: auto;
   margin-top: 50px;
   border-radius: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center horizontally */
 }
 
 a {
