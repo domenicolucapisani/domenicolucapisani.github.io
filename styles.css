@@ -21,8 +21,8 @@ div {
   margin-top: 50px;
   border-radius: 40px;
   display: flex;
-  flex-direction: column;
-  align-items: center; /* Center horizontally */
+  flex-direction: row;
+  align-items: center;
 }
 
 a {
