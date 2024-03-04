@@ -12,8 +12,7 @@ div {
   text-align: center;
   width: 800px;
   margin: auto;
-  padding: 40px;
-  padding-top: 20px;
+  padding: auto;
   border-radius: 40px;
 }
 
