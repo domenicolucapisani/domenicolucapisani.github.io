@@ -8,11 +8,6 @@ body {
   background-color: whitesmoke;
 }
 
-div {
-  width: 800px;
-  margin: auto;
-}
-
 h1 {
   font-size: 40px;
 }
@@ -27,6 +22,11 @@ a {
 
 a:hover, a:active {
   background-color: orange;
+}
+
+div {
+  width: 800px;
+  margin: auto;
 }
 
 p {
