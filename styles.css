@@ -4,7 +4,7 @@
 
 body {
   font-family: Arial;
-  padding: 10px;
+  padding: auto;
   background: #f1f1f1;
 }
 
@@ -44,16 +44,8 @@ body {
 /* Create two unequal columns that floats next to each other */
 /* Left column */
 .leftcolumn {   
-  float: left;
-  width: 75%;
-}
-
-/* Right column */
-.rightcolumn {
-  float: left;
-  width: 25%;
-  background-color: #f1f1f1;
-  padding-left: 20px;
+  float: center;
+  width: 100%;
 }
 
 /* Fake image */
